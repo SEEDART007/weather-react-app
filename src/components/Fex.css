@@ -1,0 +1,53 @@
+.hey2{
+    border: 2px solid #de57ff;
+    width: 1120px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 320px;
+    max-width: 1200px;
+    margin-left: 10px;
+    font-family: 'Croissant One', serif;
+    font-size: 15px;
+    background-color:black;
+    color: aliceblue;
+
+    
+}
+.hey2:hover{
+    background-color:aliceblue;
+    color: black;
+    border: 3px solid blue;
+   
+}
+#floatingInput{
+    border: 2px solid blue;
+    max-width: 1200px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: #c6b9ff;
+    color: brown;
+    font-family: 'Croissant One', serif;
+    
+}
+.eww{
+    margin-bottom: 29px;
+}
+#item{
+    color: yellow;
+}
+.newdiv{
+    /* border: 3px solid black; */
+    margin-top: 100px;
+    font-size: 90px;
+    font-family: 'Croissant One', serif;
+    padding: 30px;
+
+}
+.mert{
+    background-color:#ff9200;
+    
+    height: 600px;
+}
